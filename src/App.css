@@ -75,7 +75,7 @@
              background-color: transparent;
          }
          
-         input: focus,
+         input:focus,
          textarea:focus,
          select:focus {
              outline: none;
@@ -338,11 +338,6 @@
          }
          
          a.button-link:hover {
-             color: #fff;
-             text-decoration: none;
-         }
-         
-         {
              color: #fff;
              text-decoration: none;
          }
