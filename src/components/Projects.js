@@ -92,7 +92,7 @@ export const Projects = () => {
                         <div className="proj-imgbx">
                           <img src={projImg2} />
                           <div className="proj-txtx">
-                            <a className="imgbx-link" href="https://app.netlify.com/sites/joanmercedes"><h4>Responsive E-commerce Car Website</h4></a>
+                            <a className="imgbx-link" href="https://joanmercedes.netlify.app/"><h4>Responsive E-commerce Car Website</h4></a>
                             <span>This project is a static site built using CSS animation, tido chat box, <br></br>data-mansory, data-filter-group for awesome UI and easy navigation. </span>
                           </div>
                         </div>
@@ -101,7 +101,7 @@ export const Projects = () => {
                       <div className="proj-imgbx">
                           <img src={projImg3} />
                           <div className="proj-txtx">
-                            <a className="imgbx-link" href="https://app.netlify.com/sites/chi-rubies"><h4> A Contact Form Page</h4></a>
+                            <a className="imgbx-link" href="https://chi-rubies.netlify.app/"><h4> A Contact Form Page</h4></a>
                             <span>Converted a Figma design to a static website design.<br></br>Meticulous process was followed to achieve detailed UI. </span>
                           </div>
                         </div>    
